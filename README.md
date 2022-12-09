@@ -1,3 +1,24 @@
+# IMPORTANT NOTICE!
+
+This is provided as is.
+
+**Neither will I work on this project nor will I answer any questions regarding this project.**
+
+# State of the repository
+
+* Primary repository: [https://git.ypbind.de/cgit/ueberzug/](https://git.ypbind.de/cgit/ueberzug/)
+* Backup repository: [https://github.com/Bobobo-bo-Bo-bobo/ueberzug](https://github.com/Bobobo-bo-Bo-bobo/ueberzug)
+
+The maintainer of the [original project](https://github.com/seebye/ueberzug) has closed the project.
+
+This repository is based on [commit 24cb0a7be15f28837ffaf724c8799c21236dc4d5](https://github.com/seebye/ueberzug/commit/24cb0a7be15f28837ffaf724c8799c21236dc4d5) of
+the original repository.
+
+The [commits 31463ec8152057d0b7d33517745ef2da2f239fc1](https://github.com/seebye/ueberzug/commit/31463ec8152057d0b7d33517745ef2da2f239fc1) and [commit 3780b8155e25514eab66d4980d59b9a378d6ec17](https://github.com/seebye/ueberzug/commits/3780b8155e25514eab66d4980d59b9a378d6ec17)
+are not included because they only add definitions for Github workers.
+
+---
+
 # Überzug
 
 Überzug is a command line util
